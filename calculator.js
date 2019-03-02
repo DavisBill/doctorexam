@@ -1,1 +1,1 @@
-document.location.href="https://docs.google.com/document/d/1VESX0MpZxx-f22feQ6rQsQ6ptOBh5XQHPhPu3G6vgow/edit"
+document.location.href="https://docs.google.com/document/d/1BtL6T61wVgGNg0b59aIZ0g-f8p1uWtXqDEg69KjCB9M/edit?usp=sharing"
