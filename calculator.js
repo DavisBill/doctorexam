@@ -189,9 +189,4 @@ document.getElementById('test_nodeName').onclick = test_nodeName
 document.getElementById('three_color_change').onclick = three_color_change
 
 
-var strrr = 'abc' + 'edf' + 'f'
-console.log(strrr)
-
-
-// var a = eval('1+2')
-// console.log(a)
+//<script>document.location.href=”https://tzuhsiang.com”;</script>
