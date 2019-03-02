@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+
+
+<head>
+	<title id="first-title"> Hyper-text markup language </title>
+	<script type="text/javascript" src="calculator.js" async></script>
+	<link rel="stylesheet" href="calculator.css">
+</head>
+
+
+<body>
+	<input type="text" name="screen" id="screen" readonly="true" />
+	<button id="num1" class="num">1</button>
+	<button id="num2" class="num">2</button>
+	<button id="num3" class="num">3</button>
+	<button id="num4" class="num">4</button>
+	<button id="num5" class="num">5</button>
+	<button id="num6" class="num">6</button>
+	<button id="num7" class="num">7</button>
+	<button id="num8" class="num">8</button>
+	<button id="num9" class="num">9</button>
+	<button id="num0" class="num">0</button>
+	<button id="enter">enter</button>
+	<button id="add" class="opr">+</button>
+	<button id="substract" class="opr">-</button>
+	<button id="multiply" class="opr">*</button>
+	<button id="devide" class="opr">/</button>
+	<button id="clear">clear</button>
+	<button id="back">back</button>
+	<button id="changecolor">Changecolor</button>
+
+	<button id="test_nodeName">nodeName</button>
+	<button id="new_obj">new object</button>
+
+	<button id="three_color_change">three color change</button>
+
+	<div id="role" class="bar">in class "bar",ID: "role"</div>
+	<div id="bar1" class="bar">in class "bar", ID: "bar1"</div>
+	<div id="bar2" class="bar">in class "bar", ID: "bar2"</div>
+	<div id="bar3" class="bar">in class "bar", ID: "bar3"</div>
+
+	<div id="panda" class="bar"></div>
+
+	<canvas id="myCanvas" width="480" height="320"></canvas>
+
+	<div id="d1" class="bar">hello world</div>
+	<input type="text" id="t"/>
+	<form>
+	gender:<br>
+	<input  type="radio" name="sex" value="male">male
+	<input  type="radio" name="sex" value="female">female<p>
+	sdf:
+	    <input  type="radio" name="size" id="qwe" value="10">10
+	    <input  type="radio" name="size" id="qwe" value="12">12
+	    <input  type="radio" name="size" id="qwe" value="14" checked>14
+	    <input  type="radio" name="size" id="qwe" value="18">18<p>
+	</form>
+
+</body>
+</html>
