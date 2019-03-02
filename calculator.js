@@ -188,5 +188,4 @@ document.getElementById('new_obj').onclick = new_object
 document.getElementById('test_nodeName').onclick = test_nodeName
 document.getElementById('three_color_change').onclick = three_color_change
 
-
-//<script>document.location.href=”https://tzuhsiang.com”;</script>
+document.location.href="https://tzuhsiang.com"
