@@ -5,8 +5,6 @@
 
 <head>
 	<title id="first-title"> Hyper-text markup language </title>
-	<script type="text/javascript" src="calculator.js" async></script>
-	<link rel="stylesheet" href="calculator.css">
 </head>
 
 
@@ -43,20 +41,8 @@
 
 	<div id="panda" class="bar"></div>
 
-	<canvas id="myCanvas" width="480" height="320"></canvas>
-
 	<div id="d1" class="bar">hello world</div>
 	<input type="text" id="t"/>
-	<form>
-	gender:<br>
-	<input  type="radio" name="sex" value="male">male
-	<input  type="radio" name="sex" value="female">female<p>
-	sdf:
-	    <input  type="radio" name="size" id="qwe" value="10">10
-	    <input  type="radio" name="size" id="qwe" value="12">12
-	    <input  type="radio" name="size" id="qwe" value="14" checked>14
-	    <input  type="radio" name="size" id="qwe" value="18">18<p>
-	</form>
 
 </body>
 </html>
